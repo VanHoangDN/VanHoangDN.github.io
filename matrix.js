@@ -48,7 +48,7 @@ function draw() {
 }
 
 function writeAuthor() {
-  let title = ' Code là Ghiền ';
+  let title = ' Aslan Page ';
   let size = fontSize * 6;
   fill('white');
   textSize(size);
